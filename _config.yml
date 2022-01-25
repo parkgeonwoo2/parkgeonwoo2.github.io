@@ -119,13 +119,6 @@ project_load_more_url: https://github.com/parkgeonwo
 project_my_name: 개인프로젝트
 project_my: # 형식에 맞추어 항목 추가
 
-- background_url: images/geonwoo_ct.png
-  animation: fadeInLeft
-  name: CT_lung_image_segmentaion
-  description: (2020.12) CT 이미지 (인풋)에서 폐 영역 마스크 (아웃풋)을 예측해내는 인공지능 모델 만들기
-  detail_url: https://github.com/parkgeonwo/CT_lung_image_segmentaion
-  readmore_url: https://github.com/parkgeonwo/CT_lung_image_segmentaion
-
 - background_url: images/geonwoo_squid.PNG
   animation: fadeInLeft
   name: AI-Face-detect-squid-game
