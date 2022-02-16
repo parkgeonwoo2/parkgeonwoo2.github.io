@@ -2,7 +2,7 @@ title: 건우의 포트폴리오 사이트
 name: 박건우
 email: parkkeonwo@naver.com
 description: >-
-  A.I developer
+  Data scientist
 
 
 baseurl: ""
@@ -42,7 +42,7 @@ slider_0: # 형식에 맞추어 항목 추가
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/geonwoo_bg1.jpg
-  title: I am<br>AI Developer
+  title: I am<br>Data scientist
   subtitle: >- 
     조금은 늦었지만<br>
     성장하고픈<br>
@@ -52,19 +52,19 @@ slider_1: # 형식에 맞추어 항목 추가
 # About
 about_meta: About Me
 about_header: >- 
-  "새로움에 두려움이 없는 학생"
+  "새로움에 두려움이 없는 개발자"
 about_introduce: >-
-  "안녕하세요. 인공지능 전문가를 꿈꾸는 박건우입니다."
+  "안녕하세요. 데이터를 통해 인사이트를 얻고, 많은 것을 만들어보고 싶은 박건우입니다."
 about_content: >-
   비전공자로서 21년 4월 부터 시작한 코딩에서 재미를 느껴 인공지능 개발자가 되고 싶은 학생입니다.<br>
   매일 배웠던 것을 onenote에 기록하고 최근에는 github, gitblog에 학습한 내용을 기록하고 있습니다. <br>
   아직 많이 부족하지만 열정 하나는 넘친다고 생각합니다. 감사합니다.
 
 about_services: # 형식에 맞추어 항목 추가
-- icon: icon-database
-  name: deep-learning
 - icon: icon-data
   name: big-data
+- icon: icon-database
+  name: deep-learning
 - icon: icon-code
   name: Python
 - icon: icon-code
@@ -86,19 +86,19 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   percent: 50
   mark: 50
-  content: 파이썬 기초, 데이터 분석과 시각화를 공부하고 파이썬 언어의 기본적인 문법에 대해 알고 있고, 자료구조 및 알고리즘을 파이썬으로 공부중입니다.
-- name: 딥러닝
-  color: color-2
-  animation: fadeInRight
-  percent: 30
-  mark: 30
-  content: 시작한지 얼마되지 않았지만 가장 관심이 많습니다. 딥러닝 책을 구매하여 기초적인 이론을 공부하고 프로젝트를 통해 모델을 만들어보고 있습니다.
+  content: 파이썬 기초, 데이터 분석과 시각화를 공부하고 파이썬 언어의 기본적인 문법에 대해 알고 있고, 데이터 분석 및 딥러닝 등 파이썬으로 공부중입니다.
 - name: SQL
   color: color-3
   animation: fadeInLeft
   percent: 30
   mark: 30
   content: oracle을 통해 SQL을 처음 접해보고 MYSQL, MongoDB등 SQL 기본적인 문법을 알고 있습니다. SQLD 자격증을 취득하였고, 향후 SQLP 자격증에 도전할것입니다.
+- name: 딥러닝
+  color: color-2
+  animation: fadeInRight
+  percent: 30
+  mark: 30
+  content: 시작한지 얼마되지 않았지만 관심이 많습니다. 딥러닝 책을 구매하여 기초적인 이론을 공부하고 프로젝트를 통해 모델을 만들어보고 있습니다.
 - name: Github
   color: color-4
   animation: fadeInRight
@@ -131,7 +131,7 @@ project_my: # 형식에 맞추어 항목 추가
   name: lol-game-data-analysis
   description: (2021.09) 리그오브레전드 승리에 미치는 조건 분석
   detail_url: https://github.com/parkgeonwo/lol-game-data-analysis
-  readmore_url: https://github.com/parkgeonwo/lol-game-data-analysis
+  readmore_url: https://parkgeonwo.github.io/project/2022-02-16-project-post2/
 
 project_team_name: 팀프로젝트
 project_team: # 형식에 맞추어 항목 추가
@@ -139,9 +139,9 @@ project_team: # 형식에 맞추어 항목 추가
 - background_url: images/geonwoo_bg1.jpg
   animation: fadeInRight
   name: street-side-walk-object-detection
-  description: (2021.10) yolo v4, v5를 활용한 도보 위 객체 탐지 모델 개발
+  description: (2021.10) yolo v4, v5를 활용한 30가지 도보 위 객체 탐지 모델 개발
   detail_url: https://github.com/parkgeonwo/yolov4-v5-street-side-walk-object-detection
-  readmore_url: https://github.com/parkgeonwo/yolov4-v5-street-side-walk-object-detection
+  readmore_url: https://parkgeonwo.github.io/project/2022-02-16-project-post1/
 
 
 
@@ -167,7 +167,7 @@ exp_services: # 형식에 맞추어 항목 추가
 
 exp_counters:
 - name: project
-  count: 4
+  count: 3
   speed: 4000
 
 
